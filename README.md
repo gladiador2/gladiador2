@@ -2,7 +2,8 @@
 
 Desarrollador Full Stack .NET | MAUI | SQL | Web | Instructor de Programación
 
-![Foto de perfil](foto.jpg)
+
+<img src="foto.jpg" alt="Foto de perfil" width="140" />
 
 ## Sobre mí
 
