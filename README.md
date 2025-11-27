@@ -24,7 +24,6 @@ Soy desarrollador Full Stack especializado en .NET y .NET Core, con más de 5 a�
 
 ## Contacto
 
-- Email: **rolonjose4@gmail.com**
 - Envíame un mensaje: [mailto:rolonjose4@gmail.com](mailto:rolonjose4@gmail.com)
 
 ---
