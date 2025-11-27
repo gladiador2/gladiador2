@@ -1,16 +1,30 @@
-## Hi there 👋
+# José Gabriel Rolón
 
-<!--
-**gladiador2/gladiador2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack .NET | MAUI | SQL | Web | Instructor de Programación
 
-Here are some ideas to get you started:
+![Foto de perfil](foto.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy desarrollador Full Stack especializado en .NET y .NET Core, con más de 5 años de experiencia en desarrollo de aplicaciones empresariales y más de un año trabajando con .NET MAUI. Tengo amplia experiencia integrando APIs REST y SOAP, desarrollando aplicaciones web y móviles, y creando soluciones eficientes, limpias y escalables. También soy instructor de programación, apasionado por enseñar y compartir conocimientos.
+
+## Habilidades
+
+- C#, .NET, .NET Core
+- MAUI
+- SQL Server, Oracle PL/SQL, PostgreSQL, MySQL
+- JavaScript, HTML, CSS
+- Git, GitHub, GitLab
+
+## Proyectos destacados
+
+- Sistema clínico: Gestión de estudios y reportes médicos.
+- Aplicación MAUI multiplataforma para servicios internos.
+- APIs REST para facturación y logística.
+
+## Contacto
+
+- Email: **rolonjose4@gmail.com**
+- Envíame un mensaje: [mailto:rolonjose4@gmail.com](mailto:rolonjose4@gmail.com)
+
+---
